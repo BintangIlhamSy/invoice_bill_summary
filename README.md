@@ -8,3 +8,6 @@ Modul yang akan dikembangkan termasuk ke dalam kategori accounting. Walaupun inv
 
 ## Informasi Tambahan
 https://medium.com/@dora.uierp1/rencana-pengembangan-modul-accounting-odoo-12-7d6a075d41d3
+
+## Hasil Akhir
+https://github.com/fasilkomodoo/uierp-genap-1920/tree/1606825902_Bintang-Ilham-Syahputra
